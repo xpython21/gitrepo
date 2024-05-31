@@ -1,5 +1,5 @@
 # gitrepo
 
-My first comment!
-My second comment!
-My third comment!
+My first comment! <br />
+My second comment! <br />
+My third comment! <br />
